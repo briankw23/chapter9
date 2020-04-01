@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fk5z/0KQYexKfmrzVFNNyiQNGuUadpOMYBgI2AM/KeDDX9WZE8CiFHvyxZjTBZEY2yiSjw2FzULJuxA8ynkzqA==",
+  "success": true,
+  "projectFilePath": "/Users/brianwright/workspaces/csharp/chapter9/WorkingWithSerialization/WorkingWithSerialization.csproj",
+  "expectedPackageFiles": [
+    "/Users/brianwright/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

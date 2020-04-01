@@ -1,0 +1,12 @@
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWIthFileSystems/bin/Debug/netcoreapp3.1/WorkingWIthFileSystems.deps.json
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWIthFileSystems/bin/Debug/netcoreapp3.1/WorkingWIthFileSystems.runtimeconfig.json
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWIthFileSystems/bin/Debug/netcoreapp3.1/WorkingWIthFileSystems.runtimeconfig.dev.json
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWIthFileSystems/bin/Debug/netcoreapp3.1/WorkingWIthFileSystems.dll
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWIthFileSystems/bin/Debug/netcoreapp3.1/WorkingWIthFileSystems.pdb
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWIthFileSystems/obj/Debug/netcoreapp3.1/WorkingWIthFileSystems.csprojAssemblyReference.cache
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWIthFileSystems/obj/Debug/netcoreapp3.1/WorkingWIthFileSystems.AssemblyInfoInputs.cache
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWIthFileSystems/obj/Debug/netcoreapp3.1/WorkingWIthFileSystems.AssemblyInfo.cs
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWIthFileSystems/obj/Debug/netcoreapp3.1/WorkingWIthFileSystems.dll
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWIthFileSystems/obj/Debug/netcoreapp3.1/WorkingWIthFileSystems.pdb
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWIthFileSystems/obj/Debug/netcoreapp3.1/WorkingWIthFileSystems.csproj.CoreCompileInputs.cache
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWIthFileSystems/obj/Debug/netcoreapp3.1/WorkingWIthFileSystems.genruntimeconfig.cache

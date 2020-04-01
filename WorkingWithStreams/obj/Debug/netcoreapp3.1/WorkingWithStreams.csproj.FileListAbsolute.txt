@@ -1,0 +1,12 @@
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithStreams/bin/Debug/netcoreapp3.1/WorkingWithStreams.deps.json
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithStreams/bin/Debug/netcoreapp3.1/WorkingWithStreams.runtimeconfig.json
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithStreams/bin/Debug/netcoreapp3.1/WorkingWithStreams.runtimeconfig.dev.json
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithStreams/bin/Debug/netcoreapp3.1/WorkingWithStreams.dll
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithStreams/bin/Debug/netcoreapp3.1/WorkingWithStreams.pdb
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithStreams/obj/Debug/netcoreapp3.1/WorkingWithStreams.csprojAssemblyReference.cache
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithStreams/obj/Debug/netcoreapp3.1/WorkingWithStreams.csproj.CoreCompileInputs.cache
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithStreams/obj/Debug/netcoreapp3.1/WorkingWithStreams.AssemblyInfoInputs.cache
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithStreams/obj/Debug/netcoreapp3.1/WorkingWithStreams.AssemblyInfo.cs
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithStreams/obj/Debug/netcoreapp3.1/WorkingWithStreams.dll
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithStreams/obj/Debug/netcoreapp3.1/WorkingWithStreams.pdb
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithStreams/obj/Debug/netcoreapp3.1/WorkingWithStreams.genruntimeconfig.cache

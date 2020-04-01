@@ -1,0 +1,14 @@
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithSerialization/bin/Debug/netcoreapp3.1/WorkingWithSerialization.deps.json
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithSerialization/bin/Debug/netcoreapp3.1/WorkingWithSerialization.runtimeconfig.json
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithSerialization/bin/Debug/netcoreapp3.1/WorkingWithSerialization.runtimeconfig.dev.json
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithSerialization/bin/Debug/netcoreapp3.1/WorkingWithSerialization.dll
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithSerialization/bin/Debug/netcoreapp3.1/WorkingWithSerialization.pdb
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithSerialization/obj/Debug/netcoreapp3.1/WorkingWithSerialization.csprojAssemblyReference.cache
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithSerialization/obj/Debug/netcoreapp3.1/WorkingWithSerialization.csproj.CoreCompileInputs.cache
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithSerialization/obj/Debug/netcoreapp3.1/WorkingWithSerialization.AssemblyInfoInputs.cache
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithSerialization/obj/Debug/netcoreapp3.1/WorkingWithSerialization.AssemblyInfo.cs
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithSerialization/obj/Debug/netcoreapp3.1/WorkingWithSerialization.dll
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithSerialization/obj/Debug/netcoreapp3.1/WorkingWithSerialization.pdb
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithSerialization/obj/Debug/netcoreapp3.1/WorkingWithSerialization.genruntimeconfig.cache
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithSerialization/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/brianwright/workspaces/csharp/chapter9/WorkingWithSerialization/obj/Debug/netcoreapp3.1/WorkingWithSerialization.csproj.CopyComplete

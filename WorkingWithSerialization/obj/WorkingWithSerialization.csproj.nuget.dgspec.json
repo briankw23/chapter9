@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/brianwright/workspaces/csharp/chapter9/WorkingWithSerialization/WorkingWithSerialization.csproj": {}
+  },
+  "projects": {
+    "/Users/brianwright/workspaces/csharp/chapter9/WorkingWithSerialization/WorkingWithSerialization.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brianwright/workspaces/csharp/chapter9/WorkingWithSerialization/WorkingWithSerialization.csproj",
+        "projectName": "WorkingWithSerialization",
+        "projectPath": "/Users/brianwright/workspaces/csharp/chapter9/WorkingWithSerialization/WorkingWithSerialization.csproj",
+        "packagesPath": "/Users/brianwright/.nuget/packages/",
+        "outputPath": "/Users/brianwright/workspaces/csharp/chapter9/WorkingWithSerialization/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/brianwright/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
